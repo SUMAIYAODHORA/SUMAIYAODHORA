@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, This is Sumaiya Rahman Aodhora</h1>
-<h3 align="center">I'm a passionate SQA enthusiast from Bangladesh, committed to software excellence. With a strong foundation in test planning, defect identification, and team collaboration, I specialize in a range of testing disciplines including test automation, manual testing, performance testing, and API testing.</h3>
+<h3 align="center">I am a Computer Science and Engineering gradute. I thrive on tackling new challenges and contributing to innovative solutions. I am always eager to learn and expand my knowledge.</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Automation Testing, full stack Software Quality Assurance, Selenium, Natural Language Processing**
+- 🌱 I’m currently learning **Automation Testing, full stack Software Quality Assurance, Selenium, Natural Language Processing, Data Analysis**
 
 - 💬 Ask me about **Functional Testing, API Testing, Performance Testing, Database Testing, Automation Testing**
 
